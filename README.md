@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with hands-on
 
 ### 🤝 Connect with me:
 
-- [LinkedIn](https://linkedin.com/in/yourprofile) 🔗
-- [Twitter](https://twitter.com/yourprofile) 🐦
+- [LinkedIn](https://www.linkedin.com/in/amauri-santos-36a011ab/) 🔗
+
 
 ### 🎉 Fun Facts:
 
