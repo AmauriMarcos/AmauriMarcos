@@ -16,17 +16,26 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with hands-on
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📝 Recent Projects:
+
 - [Aurora Cast](https://example.com) – AI-powered weather app that integrates OpenWeather and OpenAI APIs with Google Geocode for real-time weather updates. 🌤️🤖
 - [Dalia Language School](https://dalia-school.vercel.app/) – A modern landing page for a language school. 📚🌐
 
 ### 💼 My Personal Portfolio:
+
 - [Portfolio Website](https://amauri-santos.com) – A showcase of my latest projects and professional journey.
 
 ### 🤝 Connect with me:
+
 - [LinkedIn](https://linkedin.com/in/yourprofile) 🔗
 - [Twitter](https://twitter.com/yourprofile) 🐦
 
-### 🎉 Fun facts:
-- I love jogging 🏃‍♂️ and anime! 🎌
+### 🎉 Fun Facts:
+
+- 🎹 **Music Enthusiast**: I enjoy playing the piano and acoustic guitar.
+- 🎮 **Gamer at Heart**: I love playing video games in my free time.
+- 🏃‍♂️ **Fitness Buff**: I can skip rope continuously for 30 minutes!
+- 👨‍👩‍👧‍👦 **Family Time**: Spending quality time with my lovely family is one of my greatest joys.
+- 🎧 **Music Lover**: When I discover a new song I like, I can listen to it on repeat for an entire week!
 
 ---
+
