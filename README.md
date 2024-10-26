@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with hands-on
 
 ### 📝 Recent Projects:
 
-- [Aurora Cast](https://aurora-cast.vercel.app/) – AI-powered weather app that integrates OpenWeather and OpenAI APIs with Google Geocode for real-time weather updates. 🌤️🤖
 - [Dalia Language School](https://dalia-school.vercel.app/) – A modern landing page for a language school. 📚🌐
 
 ### 💼 My Personal Portfolio:
