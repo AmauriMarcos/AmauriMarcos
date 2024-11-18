@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with hands-on
 
 - 🎹 **Music Enthusiast**: I enjoy playing the piano and acoustic guitar.
 - 🎮 **Gamer at Heart**: I love playing video games in my free time.
-- 🏃‍♂️ **Fitness Buff**: I can skip rope for ~~30~~5 minutes straight!
+- 🏃‍♂️ **Fitness Buff**: I can skip rope for ~~30~~ 5 minutes straight!
 - 👨‍👩‍👧‍👦 **Family Time**: Spending quality time with my lovely family is one of my greatest joys.
 - 🎧 **Music Lover**: When I discover a new song I like, I can listen to it on repeat for an entire week!
 
